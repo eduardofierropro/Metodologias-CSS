@@ -1,0 +1,115 @@
+@use '_reset';
+
+/* Básico */
+.header{}
+.header .h1{}
+.header .h1 .a{}
+.header .nav{}
+.header .nav .ul{}
+.header .nav .ul .li{}
+.header .nav .ul .li .a{}
+
+.main{}
+
+.section{}
+.section .h2{}
+.section .p{}
+.section .a{}
+
+.footer{}
+.footer .h2{}
+.footer .ul{}
+.footer .ul .li{}
+.footer .ul .li .a{}
+
+
+
+
+/* Básico+ */
+.header{}
+.header .h1{}
+.header .h1 .a{}
+.header .nav{}
+.header .ul{}
+.header .li{}
+.header .li .a{}
+
+.main{}
+
+.section{}
+.section .h2{}
+.section .p{}
+.section .a{}
+
+.footer{}
+.footer .h2{}
+.footer .ul{}
+.footer .li{}
+.footer .a{}
+
+
+
+
+
+/* Metodología SUITCSS */
+.Header{}
+.Header-h1{}
+.Header-a{}
+.Header-nav{}
+.Header-ul{}
+.Header-li{}
+.Header-a{}
+.Header-a--main{}
+
+.Main{}
+.Section{}
+.Section-h2{}
+.Section-p{}
+.Section-a{}
+
+.Footer{}
+.Footer-h2{}
+.Footer-ul{}
+.Footer-li{}
+.Footer-a{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Metodología SUITCSS + SCSS */
+
+.Cabecera{
+    &-h1{}
+    &-a{}
+    &-nav{}
+    &-ul{}
+    &-li{}
+    &-a{}
+    &-a--main{}
+}
+.Main{}
+
+.Section{
+    &-h2{}
+    &-p{}
+    &-a{}
+}
+
+.Footer{
+    &-h2{}
+    &-ul{}
+    &-li{}
+    &-a{}
+}
+

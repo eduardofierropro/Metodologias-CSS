@@ -1,0 +1,86 @@
+@use '_reset';
+
+/* Básica */
+.header{}
+.header .h1{}
+.header .h1 .a{}
+.header .nav{}
+.header .nav .ul{}
+.header .nav .ul .li{}
+.header .nav .ul .li .a{}
+
+.main{}
+.section{}
+.section .h2{}
+.section .p{}
+.section .a{}
+
+.footer{}
+.footer .h2{}
+.footer .ul{}
+.footer .ul .li{}
+.footer .ul .li .a{}
+
+/* Básica + */
+.header{}
+.header .h1{}
+.header .h1 .a{}
+.header .nav{}
+.header .ul{}
+.header .li{}
+.header .li .a{}
+
+.main{}
+.section{}
+.section .h2{}
+.section .p{}
+.section .a{}
+
+.footer{}
+.footer .h2{}
+.footer .ul{}
+.footer .li{}
+.footer .a{}
+
+
+/* Metodología BEM */
+.header{}
+.header__h1{}
+.header__a{} 
+.header__a--nav{} 
+.header__nav{}
+.header__ul{}
+.header__li{}
+
+.section{}
+.section__h2{}
+.section__p{}
+.section__a{}
+
+.footer{}
+.footer__h3{}
+.footer__ul{}
+.footer__li{}
+.footer__a{}
+
+
+/* Metodología BEM + SCSS */
+.header{
+    &__h1{}
+    &__a{} 
+    &__a--nav{} 
+    &__nav{}
+    &__ul{}
+    &__li{}
+}
+.section{
+    &__h2{}
+    &__p{}
+    &__a{}
+}
+.footer{
+    &__h3{}
+    &__ul{}
+    &__li{}
+    &__a{}
+}
