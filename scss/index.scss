@@ -1,0 +1,64 @@
+@use '_reset';
+
+/* 
+
+
+¿Cuáles son las medidas relativas en CSS?
+¿Qué es una medida absoluta y relativa?
+¿Cuáles son las medidas absolutas en CSS?
+¿Qué son las medidas absolutas?
+
+
+¿Qué es em y rem en CSS?
+¿Cuánto vale un rem?
+¿Cómo funcionan los rem en CSS?
+¿Qué es rem en font size?
+
+
+¿Cuánto vale un em?
+¿Cómo funcionan los em en CSS?
+¿Qué es em en font size?
+
+¿Cuánto vale un %?
+¿Cómo funcionan los % en CSS?
+¿Qué es % en font size?
+
+
+¿Cuál es la diferencia entre em y rem CSS?
+¿Cuál es la diferencia entre rem y em?
+
+
+¿Qué medidas usar en CSS?
+🤘 Lo ideal es usar em para TODO
+
+👨🏻‍💻 Lo habitual
+✔️ rem para margin, padding y propiedades de caja
+✔️ en para font-size
+✔️ % para en el html y body y respetar lo que el usuario configura
+✔️ px para medidas pequeñas
+
+
+❗️Recuerda❗️El valor por defecto el valor es 16px
+👉 Es decir: 16px = 1em = 100% = 1rem
+*/
+
+html{
+  font-size: 16px;
+}
+body{
+  font-size: 16px;
+}
+
+
+.medida-px{
+  font-size: 16px;
+}
+.medida-em{
+  font-size: 1em;
+}
+.medida-porcentaje{
+  font-size: 100%;
+}
+.medida-rem{
+  font-size: 1rem;
+}
