@@ -1,16 +1,18 @@
 # Medidas en CSS
 
-Aquí tienes el ejemplo que he usado en Youtube para explica.
+Aquí tienes los ejemplos de las dos metodologías que he usado en Youtube para explicar las bases de las metodlogías tanto de BEM como de SUIT CSS.
 
 
 ## 🔴 Vídeos relacionados en Youtube 
 
 * [Playlist Completa](https://www.youtube.com/playlist?list=PLJpymL0goBgETNW1I1rmuTUl-yoaRDUe5)
-* [Comandos para Mac](XXXXX)
-* [Comandos para Windows](XXXXX)
-* [Comandos aplicados en HTML](XXXXX)
-* [Comandos aplicados en CSS](XXXXX)
-* [Comandos aplicados en Javascript](XXXXX)
+* [Reset CSS](https://youtu.be/bXqPNoYFK8w)
+* [Reset en Código](https://youtu.be/Foieq2jTajE)
+* [Nomenclaturas CSS](https://youtu.be/lhEJkeCJ3As)
+* [Metodologías CSS](https://youtu.be/f0LpZoyY1gE)
+* [Arquitecturas CSS](https://youtu.be/tUldrlfIGb4)
+* [Cómo aplicar BEM en HTML y CSS](https://youtu.be/NucZM0GMRi4)
+* [Cómo aplicar SUITCSS en HTML y CSS](https://youtu.be/Vdmof9VSiEo)
 
 ## Autor ✒️
 
