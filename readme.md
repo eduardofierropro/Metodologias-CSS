@@ -1,11 +1,11 @@
-# Metodlogías en CSS
+# Metodologías en CSS
 
 Aquí tienes los ejemplos de las dos metodologías que he usado en Youtube para explicar las bases de las metodlogías tanto de BEM como de SUIT CSS.
 
 
 ## 🔴 Vídeos relacionados en Youtube 
 
-* [Playlist Completa](https://www.youtube.com/playlist?list=PLJpymL0goBgETNW1I1rmuTUl-yoaRDUe5)
+* [Playlist Completa](https://youtube.com/playlist?list=PLJpymL0goBgEi9123aDkagpGpKkESbrsz)
 * [Reset CSS](https://youtu.be/bXqPNoYFK8w)
 * [Reset en Código](https://youtu.be/Foieq2jTajE)
 * [Nomenclaturas CSS](https://youtu.be/lhEJkeCJ3As)
