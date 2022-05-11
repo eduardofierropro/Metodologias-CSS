@@ -1,4 +1,4 @@
-# Medidas en CSS
+# Metodlogías en CSS
 
 Aquí tienes los ejemplos de las dos metodologías que he usado en Youtube para explicar las bases de las metodlogías tanto de BEM como de SUIT CSS.
 
