@@ -11,7 +11,7 @@ En ambos casos encontrarás varios archivos.
 
 [![Youtube](https://img.shields.io/static/v1?label=&message=aprender%20teoria&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=f0LpZoyY1gE)
 
-## 🔴 Vídeos relacionados con el reset
+## 🔴 Vídeos relacionados con las metodologías
 
 | Nombre | Youtube |
 |--|--|
