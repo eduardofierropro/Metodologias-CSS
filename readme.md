@@ -1,4 +1,4 @@
-![Imagen del proyecto](https://github.com/eduardofierropro/Metodologias-CSS/blob/main/assets/home1.jpg)
+![Imagen del proyecto](https://github.com/eduardofierropro/Metodologias-CSS/blob/main/assets/home1.png)
 
 # Metodologías en CSS
 
